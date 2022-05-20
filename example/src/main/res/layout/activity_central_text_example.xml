@@ -20,7 +20,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.github.lzyzsd.circleprogress.ArcProgress
+    <com.github.lzyzsd.circleprogresskt.ArcProgress
         android:id="@+id/arc_progress"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -37,7 +37,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
-    <com.github.lzyzsd.circleprogress.CircleProgress
+    <com.github.lzyzsd.circleprogresskt.CircleProgress
         android:id="@+id/donut_progress"
         android:layout_width="0dp"
         android:layout_height="0dp"

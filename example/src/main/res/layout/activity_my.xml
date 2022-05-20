@@ -7,7 +7,7 @@
               android:orientation="vertical"
               tools:context=".MyActivity">
 
-    <com.github.lzyzsd.circleprogress.DonutProgress
+    <com.github.lzyzsd.circleprogresskt.DonutProgress
             android:id="@+id/donut_progress"
             android:layout_width="200dp"
             android:layout_height="200dp"

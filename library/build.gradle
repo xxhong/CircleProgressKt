@@ -1,6 +1,6 @@
+apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-apply plugin: 'com.github.dcendents.android-maven'
 version = "1.2.4"
 group='com.github.circleprogresskt'
 android {

@@ -7,7 +7,7 @@
               android:orientation="vertical"
               tools:context=".MyActivity">
 
-    <com.github.lzyzsd.circleprogress.DonutProgress
+    <com.github.lzyzsd.circleprogresskt.DonutProgress
             android:id="@+id/donut_progress"
             android:layout_width="200dp"
             android:layout_height="200dp"
@@ -19,7 +19,7 @@
             custom:donut_show_text="false"
             custom:donut_unfinished_color="#f5f5f5"
             custom:donut_unfinished_stroke_width="15dp"/>
-    <com.github.lzyzsd.circleprogress.CircleProgress
+    <com.github.lzyzsd.circleprogresskt.CircleProgress
         android:id="@+id/circle_progress"
         android:layout_marginLeft="50dp"
         custom:circle_unfinished_color="@android:color/black"
@@ -31,14 +31,14 @@
         android:layout_height="70dp"
         custom:circle_progress="80"/>
 
-    <com.github.lzyzsd.circleprogress.DonutProgress
+    <com.github.lzyzsd.circleprogresskt.DonutProgress
         android:layout_marginLeft="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         custom:donut_clockWise="false"
         custom:donut_progress="50"/>
 
-    <com.github.lzyzsd.circleprogress.DonutProgress
+    <com.github.lzyzsd.circleprogresskt.DonutProgress
         android:layout_marginLeft="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

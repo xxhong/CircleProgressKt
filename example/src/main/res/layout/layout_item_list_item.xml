@@ -12,7 +12,7 @@
               android:layout_height="96dp"
               android:gravity="center_vertical"/>
 
-    <com.github.lzyzsd.circleprogress.ArcProgress
+    <com.github.lzyzsd.circleprogresskt.ArcProgress
         android:layout_alignParentRight="true"
         android:id="@+id/arc_progress"
         android:layout_width="96dp"
