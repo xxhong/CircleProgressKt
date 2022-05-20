@@ -1,7 +1,7 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-version = "1.2.4"
+version = "2.1.0"
 group='com.github.circleprogresskt'
 android {
     compileSdkVersion 31
